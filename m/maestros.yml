@@ -1,3 +1,7 @@
-valor:1111
 #ConnectionStrings: 
 # ProductConnection: Server=DESKTOP-8JAE7I4;Database=msDbMaestros;Trusted_Connection=True;MultipleActiveResultSets=true;Encrypt=True;TrustServerCertificate=True
+ConnectionStrings: 
+    MicroservicesClientConnectionString: Data Source=.;Initial Catalog=Library;Persist Security Info=True;User ID=galaxy;Password=Password123  
+JwtSettings: 
+    Key: nskljgfdgokwernglsndgjknsñdjgnskjdfgnlkjsdnfskdjgsdjfkg
+    Issuer: https://localhost:44323/
