@@ -1,2 +1,3 @@
-ConnectionStrings: 
- ProductConnection: Server=DESKTOP-8JAE7I4;Database=msDbMaestros;Trusted_Connection=True;MultipleActiveResultSets=true;Encrypt=True;TrustServerCertificate=True
+valor:1111
+#ConnectionStrings: 
+# ProductConnection: Server=DESKTOP-8JAE7I4;Database=msDbMaestros;Trusted_Connection=True;MultipleActiveResultSets=true;Encrypt=True;TrustServerCertificate=True
