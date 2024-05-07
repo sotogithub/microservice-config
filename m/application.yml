@@ -5,4 +5,5 @@ JwtSettings:
     Issuer: https://localhost:44323/
     Audience: Microservices.ConfigServer.Client
     MinutesToExpiration: 10
+    MinutesToExpiration2: 20
   
